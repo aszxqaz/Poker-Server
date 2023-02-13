@@ -1,0 +1,1 @@
+export const SORTED_CARDS_PACK = new Array(52).fill(0).map((_, i) => i)
